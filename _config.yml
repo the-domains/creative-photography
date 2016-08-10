@@ -1,15 +1,15 @@
-typography_spectrum: 0.30957376048900187
+typography_spectrum: 0.6972477729432285
 color:
-  brandStrength: 0.6127980202436447
-  lightness: 0.7423994173295796
-  saturation: 0.385720431804657
-  rhythmicContrast: 0.5856596985831857
+  brandStrength: 0.19296421436592937
+  lightness: 0.3083363687619567
+  saturation: 0.32143700565211475
+  rhythmicContrast: 0.40267639700323343
   brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
 layout_spectrum: 0.21832215529866517
 name: Creative Photography
 title: Cynthia's Creative Images
