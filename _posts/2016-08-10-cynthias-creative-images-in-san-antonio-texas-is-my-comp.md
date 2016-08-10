@@ -7,19 +7,18 @@ description: >-
   downtown bookstores and the airport, as well as discussed on radio and in
   newspaper features. My distinctive approach includes marketing products like
   logos and stationery, and I look forward to working with you. 
-dateModified: '2016-08-10T05:01:46.144Z'
-datePublished: '2016-08-10T05:02:40.294Z'
+dateModified: '2016-08-10T05:03:53.952Z'
+datePublished: '2016-08-10T05:03:54.488Z'
 title: ''
 author: []
 publisher:
   name: Cynthia Hackney
 via: {}
-starred: false
 sourcePath: _posts/2016-08-10-cynthias-creative-images-in-san-antonio-texas-is-my-comp.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: cynthias-creative-images-in-san-antonio-texas-is-my-comp/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/90ac7210-4689-4f4c-8f60-12e33c77e5d1.jpg)
