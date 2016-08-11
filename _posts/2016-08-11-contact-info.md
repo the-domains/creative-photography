@@ -1,17 +1,16 @@
 ---
-datePublished: '2016-08-11T22:02:06.330Z'
+datePublished: '2016-08-11T22:03:22.547Z'
 sourcePath: _posts/2016-08-11-contact-info.md
 author: []
 via: {}
-dateModified: '2016-08-11T22:02:05.283Z'
+dateModified: '2016-08-11T22:03:22.043Z'
 title: 'Contact info:'
 publisher: {}
 description: ''
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: contact-info/index.html
+_type: Blurb
 
 ---
 # Contact info:
