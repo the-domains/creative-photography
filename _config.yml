@@ -1,4 +1,4 @@
-typography_spectrum: 0.5205476302653551
+typography_spectrum: 0.013243385823443532
 color:
   saturation: 0.385720431804657
   brandStrength: 0.202509
@@ -20,6 +20,9 @@ name: Creative Photography
 navigation:
   - name: About
     id: 2939d44c-f39b-44f7-93e9-72db451ade92
+    type: content
+  - name: Contact
+    id: 46ee6619-303b-4911-bed0-980e3322c8b5
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/faf03cbe-8196-48d2-b662-af1978f54bf7.png
