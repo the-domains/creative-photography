@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Cynthia's Creative Images]]></title>
         <description><![CDATA[Cynthia's Creative Images]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/creative-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 20:55:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 11 Aug 2016 20:55:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/creative-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/55fe2737-9ae2-4403-8e5a-8a0fec2be691.jpg">]]></description>
+            <link>https://thegrid.ai/creative-photography/c8425b49-c2d2-4495-97a5-1922f173af59/index.html</link>
+            <guid isPermaLink="false">c8425b49-c2d2-4495-97a5-1922f173af59</guid>
+            <pubDate>Thu, 11 Aug 2016 20:55:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/19448026-7f4f-43e8-b85a-374fddac6c55.jpg">]]></description>
-            <link>undefined11af6f3f-0252-4bda-b8b2-543a10663326/index.html</link>
+            <link>https://thegrid.ai/creative-photography/11af6f3f-0252-4bda-b8b2-543a10663326/index.html</link>
             <guid isPermaLink="false">11af6f3f-0252-4bda-b8b2-543a10663326</guid>
             <pubDate>Thu, 11 Aug 2016 20:55:00 GMT</pubDate>
         </item>
