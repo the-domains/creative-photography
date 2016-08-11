@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-11T22:06:37.991Z'
+datePublished: '2016-08-11T22:09:18.493Z'
 sourcePath: _posts/2016-08-11-contact-info.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-11T22:06:37.430Z'
+dateModified: '2016-08-11T22:09:18.118Z'
 title: 'Contact info:'
 publisher: {}
-description: (210) 960-5517 ceb0423@yahoo.com
+description: '(210) 960-5517 '
 starred: false
 url: contact-info/index.html
 _type: Blurb
@@ -15,7 +15,9 @@ _type: Blurb
 ---
 # Contact info:
 
-(210) 960-5517 ceb0423@yahoo.com
+(210) 960-5517 
+
+ceb0423@yahoo.com
 
 Cynthia Hackney
 
