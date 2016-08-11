@@ -22,11 +22,11 @@ color:
     - '#85B2D9'
     - '#DE9478'
   rhythmicContrast: 0.5856596985831857
-typography_spectrum: 0.6989247
+typography_spectrum: 0.013243385823443532
 description: Portrait Photography
 navigation:
   - name: About
     id: 2939d44c-f39b-44f7-93e9-72db451ade92
     type: content
-layout_spectrum: 0.6003584
+layout_spectrum: 0.3931232213508338
 name: Creative Photography
