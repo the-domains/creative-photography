@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-11T22:27:11.878Z'
+datePublished: '2016-08-11T22:29:46.420Z'
 sourcePath: _posts/2016-08-10-cynthias-creative-images-in-san-antonio-texas-is-my-comp.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-11T22:27:11.438Z'
+dateModified: '2016-08-11T22:29:45.631Z'
 title: >-
   Cynthia’s Creative Images, in San Antonio, Texas, is my company that features
   the images of a fine art photographer that was trained at Lipscomb University
