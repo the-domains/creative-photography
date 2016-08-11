@@ -1,4 +1,24 @@
-title: Cynthia's Creative Images
+typography_spectrum: 0.013243385823443532
+color:
+  saturation: 0.385720431804657
+  brandStrength: 0.202509
+  lightness: 0.7423994173295796
+  brandColors:
+    - '#0D0C0F'
+    - '#FFE7B9'
+    - '#375A84'
+    - '#85B2D9'
+    - '#DE9478'
+  rhythmicContrast: 0.5856596985831857
+layout_spectrum: 0.3931232213508338
+author:
+  name: Taylor Brite
+  url: 'http://google.com/+TaylorBrite'
+name: Creative Photography
+navigation:
+  - name: About
+    id: 2939d44c-f39b-44f7-93e9-72db451ade92
+    type: content
 collections:
   - index:
       path: /
@@ -11,22 +31,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.385720431804657
-  brandStrength: 0.202509
-  lightness: 0.7423994173295796
-  brandColors:
-    - '#0D0C0F'
-    - '#FFE7B9'
-    - '#375A84'
-    - '#85B2D9'
-    - '#DE9478'
-  rhythmicContrast: 0.5856596985831857
-typography_spectrum: 0.013243385823443532
+title: Cynthia's Creative Images
 description: Portrait Photography
-navigation:
-  - name: About
-    id: 2939d44c-f39b-44f7-93e9-72db451ade92
-    type: content
-layout_spectrum: 0.3931232213508338
-name: Creative Photography
