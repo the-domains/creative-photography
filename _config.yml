@@ -14,11 +14,15 @@ layout_spectrum: 0.3931232213508338
 author:
   name: Taylor Brite
   url: 'http://google.com/+TaylorBrite'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/87024187-379d-456f-b5df-99b4adbb6f54.png
 name: Creative Photography
 navigation:
   - name: About
     id: 2939d44c-f39b-44f7-93e9-72db451ade92
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/faf03cbe-8196-48d2-b662-af1978f54bf7.png
 collections:
   - index:
       path: /
