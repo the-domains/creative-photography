@@ -21,6 +21,9 @@ navigation:
   - name: Contact
     id: 46ee6619-303b-4911-bed0-980e3322c8b5
     type: content
+  - name: About
+    id: e9589504-5420-44bb-a6b3-eea7f2b5d54e
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/faf03cbe-8196-48d2-b662-af1978f54bf7.png
 collections:
