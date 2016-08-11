@@ -1,39 +1,35 @@
-title: Cynthia's Creative Images
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-description: Portrait Photography
+typography_spectrum: 0.013243385823443532
 color:
   saturation: 0.385720431804657
   brandStrength: 0.202509
-  rhythmicContrast: 0.5856596985831857
+  lightness: 0.7423994173295796
   brandColors:
     - '#0D0C0F'
     - '#FFE7B9'
     - '#375A84'
     - '#85B2D9'
     - '#DE9478'
-  lightness: 0.7423994173295796
-navigation:
-  - name: About
-    id: 2939d44c-f39b-44f7-93e9-72db451ade92
-    type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/faf03cbe-8196-48d2-b662-af1978f54bf7.png
+  rhythmicContrast: 0.5856596985831857
+layout_spectrum: 0.3931232213508338
 author:
   name: Taylor Brite
   url: 'http://google.com/+TaylorBrite'
-name: Creative Photography
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/87024187-379d-456f-b5df-99b4adbb6f54.png
-typography_spectrum: 0.8855766493361443
-layout_spectrum: 0.8849511479493231
+name: Creative Photography
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/faf03cbe-8196-48d2-b662-af1978f54bf7.png
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: Cynthia's Creative Images
+description: Portrait Photography
