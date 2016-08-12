@@ -1,7 +1,10 @@
 ---
-description: ''
-dateModified: '2016-08-11T22:53:15.852Z'
-datePublished: '2016-08-11T22:53:16.293Z'
+datePublished: '2016-08-12T01:02:37.747Z'
+sourcePath: _posts/2016-08-11-cynthias-creative-images-in-san-antonio-texas-is-my-comp.md
+hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-12T01:02:36.881Z'
 title: >-
   Cynthia’s Creative Images, in San Antonio, Texas, is my company that features
   the images of a fine art photographer that was trained at Lipscomb University
@@ -10,11 +13,8 @@ title: >-
   downtown bookstores and the airport, as well as discussed on radio and in
   newspaper features. My distinctive approach includes marketing products like
   logos and stationery, and I look forward to working with you.
-author: []
 publisher: {}
-via: {}
-sourcePath: _posts/2016-08-11-cynthias-creative-images-in-san-antonio-texas-is-my-comp.md
-hasPage: true
+description: ''
 starred: false
 url: cynthias-creative-images-in-san-antonio-texas-is-my-comp/index.html
 _type: Blurb
