@@ -1,4 +1,4 @@
-typography_spectrum: 0.7529340262990445
+typography_spectrum: 0.5158418614882976
 color:
   saturation: 0.385720431804657
   brandStrength: 0.202509
@@ -10,7 +10,7 @@ color:
     - '#85B2D9'
     - '#DE9478'
   rhythmicContrast: 0.5856596985831857
-layout_spectrum: 0.3945603172760457
+layout_spectrum: 0.23700828268192708
 author:
   name: Taylor Brite
   url: 'http://google.com/+TaylorBrite'
