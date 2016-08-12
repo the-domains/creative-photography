@@ -17,6 +17,10 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/87024187-379d-456f-b5df-99b4adbb6f54.png
 name: Creative Photography
+navigation:
+  - name: Contact
+    id: 46ee6619-303b-4911-bed0-980e3322c8b5
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/faf03cbe-8196-48d2-b662-af1978f54bf7.png
 collections:
